@@ -1,0 +1,6 @@
+root: true
+extends: standard
+plugins:
+  - node
+  - standard
+  - promise
