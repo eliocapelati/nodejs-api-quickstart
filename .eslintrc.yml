@@ -1,6 +1,8 @@
 root: true
-extends: standard
+env:
+  node: true
+  es6: true
+extends: google
 plugins:
   - node
-  - standard
   - promise
